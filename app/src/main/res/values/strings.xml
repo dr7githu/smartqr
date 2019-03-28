@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">충청남도 WELL</string>
+
+    <string name="btn_ok">확인</string>
+    <string name="btn_cancel">취소</string>
+    <string name="btn_apply">apply</string>
+    <string name="str_loading">로딩중...</string>
+
+    <string name="vworld_apikey">BEFBEAC6-DD9D-3BF2-9217-0C563EB2AA01</string>
+</resources>

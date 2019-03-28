@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AndroidWorkspace\smartqr\app\libs\libDaumMapAndroid.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f096afe1be0bd0114ca942469b3be761fb26a578">
+        <dex dex="D:\AndroidWorkspace\smartqr\app\build\intermediates\pre-dexed\debug\libDaumMapAndroid_165d0fd5c4c96885b135691468312989dc8d33ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidWorkspace\smartqr\app\libs\MFF-Mobile-Lib_v1.7.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a9bf2805683d65fcadec1e4bf446a8a8743405f">
+        <dex dex="D:\AndroidWorkspace\smartqr\app\build\intermediates\pre-dexed\debug\MFF-Mobile-Lib_v1.7.4_c3d6b9c1f9ced6630fe8c91f23c3e6d71ee15511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidWorkspace\smartqr\app\libs\gson-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53bfcd3c8e310d1493b2691484525ed90b04e236">
+        <dex dex="D:\AndroidWorkspace\smartqr\app\build\intermediates\pre-dexed\debug\gson-2.2.2_0907c991e86e04e935ceb3749bf826ff8c133b61.jar" />
+    </item>
+
+</items>

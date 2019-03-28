@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorGreen1">#42c7b7</color>
+    <color name="colorGreen2">#24aa98</color>
+    <color name="colorGreen3">#1a9385</color>
+    <color name="colorGreen4">#027365</color>
+    <color name="colorBlue0">#b7efff</color>
+    <color name="colorBlue1">#77bfe5</color>
+    <color name="colorBlue2">#65abd0</color>
+    <color name="colorBlue3">#5093b7</color>
+    <color name="colorBlue4">#307397</color>
+    <color name="colorOrange1">#e8d48b</color>
+    <color name="colorOrange2">#d9c26c</color>
+    <color name="colorOrange3">#c9b248</color>
+    <color name="colorOrange4">#a99228</color>
+    <color name="colorRed1">#e79f91</color>
+    <color name="colorRed2">#db7560</color>
+    <color name="colorRed3">#c25842</color>
+    <color name="colorRed4">#a23822</color>
+    <color name="colorGray1">#dee2e7</color>
+    <color name="colorGray2">#c6ccd2</color>
+    <color name="colorGray3">#b4bbc2</color>
+    <color name="colorGray4">#949ba2</color>
+    <color name="colorBlack1">#494949</color>
+    <color name="colorBlack2">#383737</color>
+    <color name="colorBlack3">#262626</color>
+    <color name="colorBlack4">#060606</color>
+    <color name="colorWhite">#ffffff</color>
+
+    <color name="TRANSPARENT">#00000000</color>
+    <color name="DIALOG_BACKGROUND">#88000000</color>
+    <color name="LIGHT_TRANSPARENT">#11000000</color>
+    <color name="HALF_TRANSPARENT">#33000000</color>
+
+    <color name="colorOrange2Alpha">#bbd9c26c</color>
+
+
+    <item name="droppy_separator" type="color">#FFBBBBBB</item>
+    <item name="droppy_title_color" type="color">#FF333333</item>
+</resources>
